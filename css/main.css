@@ -25,3 +25,12 @@ html {
 h1 {
   color: #fff;
 }
+
+.preview-img .unit {
+  height: 100vh;
+  background: url("https://pics.me.me/graphic-design-is-my-passion-11891063.png") center center / cover no-repeat;
+}
+
+.phrase {
+  color: #ff0000;
+}
